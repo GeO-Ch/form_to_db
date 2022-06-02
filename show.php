@@ -1,6 +1,4 @@
 <?php
-
-<?php
 //connection
 $host = "localhost";
 $dbname = "sql_connector";
@@ -42,6 +40,4 @@ mysqli_stmt_bind_param($stmt, "si",
 mysqli_stmt_execute($stmt);
 
 echo "Success!";
-?>
-
 ?>
