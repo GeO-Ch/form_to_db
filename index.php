@@ -20,9 +20,6 @@ include '/xampp/htdocs/phpinvsc/style.css';
 <form action="show.php" method="post" class="form" action="" method="">
 Name: <input type="text" name="name" class="fields"><br>
 Surname: <input type="text" name="surname" class="fields"><br>
-E-mail: <input type="text" name="email" class="fields"><br>
-Landline: <input type="text" name="landline" class="fields"><br>
-Cellphone: <input type="text" name="cell" class="fields"><br>
 <input type="submit">
 </form>
 
